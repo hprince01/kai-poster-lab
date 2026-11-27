@@ -1,6 +1,6 @@
 # 🎨 Kai Poster Lab — Generative Poster Maker
 
-**Try it live → [hprince01.github.io/projects/poster-lab](https://hprince01.github.io/projects/poster-lab/)**
+**Try it live → [princehirwa.pages.dev/projects/poster-lab](https://princehirwa.pages.dev/projects/poster-lab/)**
 
 A creative-coding tool that **draws posters from code**. Pick a style and a palette, shuffle, add your own text and export a high-resolution PNG. Every poster comes from a **seeded random generator**, so the same seed always gives the same poster, and a link can share it exactly.
 
@@ -22,4 +22,4 @@ A creative-coding tool that **draws posters from code**. Pick a style and a pale
 Open `index.html` in a browser.
 
 ---
-Designed & coded by **Prince Hirwa Rutagengwa · [Kai Labs](https://hprince01.github.io/)** — Kigali, Rwanda.
+Designed & coded by **Prince Hirwa Rutagengwa · [Kai Labs](https://princehirwa.pages.dev/)** — Kigali, Rwanda.
